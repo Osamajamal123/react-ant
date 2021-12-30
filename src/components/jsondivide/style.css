@@ -1,0 +1,11 @@
+.arraydata{
+width: 100%;
+background-color: aliceblue;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+.pagination .paginationflex{
+    display: flex;
+}
